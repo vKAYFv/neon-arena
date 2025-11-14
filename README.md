@@ -21,16 +21,6 @@
 
 ---
 
-# 🖼 Screenshot
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vKAYFv/neon-arena/main/assets/screenshot.png" width="720" alt="Neon Arena Screenshot">
-</p>
-
-> *(Replace `screenshot.png` with your actual screenshot; I can generate one automatically — скажи “сделай скрин”, и я сгенерирую и положу в assets.)*
-
----
-
 # ✨ Overview
 
 Neon Arena is a polished, modular action-arena prototype built on **PixiJS 7**, demonstrating senior-level HTML5 game architecture without a build pipeline.
